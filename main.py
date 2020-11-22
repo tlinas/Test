@@ -5,3 +5,5 @@ print(r.content)
 with open('logo.png', 'wb') as f:
     f.write(r.content)
     print("nothing")
+    print("nothing")
+    print("nothing")
